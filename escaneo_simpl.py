@@ -1,6 +1,6 @@
 import subprocess
 import re
-
+   
 def clasificar_puertos(ports):
     """
     Clasificación por riesgo:
