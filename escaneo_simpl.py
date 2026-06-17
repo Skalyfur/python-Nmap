@@ -3,7 +3,7 @@ import re
    
 def clasificar_puertos(ports):
     """
-    Clasificación por riesgo:
+    Clasificación por riesgo:   
     ALTA → acceso remoto / datos críticos
     MEDIA → servicios expuestos
     BAJA → servicios auxiliares
