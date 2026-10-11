@@ -2,7 +2,7 @@ import subprocess
 import re
    
 def clasificar_puertos(ports):
-    """   
+    """    
     Clasificación por riesgo:   
     ALTA → acceso remoto / datos críticos
     MEDIA → servicios expuestos
